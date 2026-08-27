@@ -8,8 +8,8 @@ about our research at [asmlab.org](https://asmlab.org).
 
 | Repo | Description | Status |
 | --- | --- | --- |
-| [**RISE**](https://github.com/meyer-lab/RISE) | PARAFAC2 tensor factorization for multi-sample scRNA-seq | [![Docs](https://github.com/meyer-lab/RISE/actions/workflows/documentation.yml/badge.svg)](https://github.com/meyer-lab/RISE/actions/workflows/documentation.yml) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/meyer-lab/RISE/blob/main/LICENSE) |
-| [**tHMM**](https://github.com/meyer-lab/tHMM) | Hidden Markov models for cell lineage trees | [![Build](https://github.com/meyer-lab/tHMM/actions/workflows/build.yml/badge.svg)](https://github.com/meyer-lab/tHMM/actions/workflows/build.yml) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/meyer-lab/tHMM/blob/master/LICENSE) |
+| [**RISE**](https://github.com/meyer-lab/RISE) | PARAFAC2 tensor factorization for multi-sample scRNA-seq | [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/meyer-lab/RISE/blob/main/LICENSE) |
+| [**tHMM**](https://github.com/meyer-lab/tHMM) | Hidden Markov models for cell lineage trees | [![Tests](https://github.com/meyer-lab/tHMM/actions/workflows/pytest.yml/badge.svg)](https://github.com/meyer-lab/tHMM/actions/workflows/pytest.yml) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/meyer-lab/tHMM/blob/master/LICENSE) |
 | [**DDMC**](https://github.com/meyer-lab/DDMC) | Clusters phosphoproteomics data by sequence and abundance dynamics | [![Tests](https://github.com/meyer-lab/DDMC/actions/workflows/test.yml/badge.svg)](https://github.com/meyer-lab/DDMC/actions/workflows/test.yml) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/meyer-lab/DDMC/blob/main/LICENSE) |
 
 ## Tensor factorization methods
