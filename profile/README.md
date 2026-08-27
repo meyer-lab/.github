@@ -1,7 +1,7 @@
 # Meyer Lab
 
 We're a bioengineering lab at UCLA developing tensor factorization and computational modeling
-methods, applied to immunology, cancer biology, and single-cell/spatial genomics. Read more
+methods, applied to immunology and cancer biology, to study cell communication and decision making. Read more
 about our research at [asmlab.org](https://asmlab.org).
 
 ## Flagship projects
