@@ -1,0 +1,7 @@
+{
+    "name": "Python CI (uv + ruff + pytest)",
+    "description": "Lint, format-check, type-check, and test a uv-managed Python package with ruff, ty, and pytest, matching the pattern used across RISE, tHMM, DDMC, and parafac2.",
+    "categories": [
+        "Python"
+    ]
+}
