@@ -11,6 +11,7 @@ about our research at [asmlab.org](https://asmlab.org).
 | [**RISE**](https://github.com/meyer-lab/RISE) | PARAFAC2 tensor factorization for multi-sample scRNA-seq | [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/meyer-lab/RISE/blob/main/LICENSE) |
 | [**tHMM**](https://github.com/meyer-lab/tHMM) | Hidden Markov models for cell lineage trees | [![Tests](https://github.com/meyer-lab/tHMM/actions/workflows/pytest.yml/badge.svg)](https://github.com/meyer-lab/tHMM/actions/workflows/pytest.yml) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/meyer-lab/tHMM/blob/master/LICENSE) |
 | [**DDMC**](https://github.com/meyer-lab/DDMC) | Clusters phosphoproteomics data by sequence and abundance dynamics | [![Tests](https://github.com/meyer-lab/DDMC/actions/workflows/test.yml/badge.svg)](https://github.com/meyer-lab/DDMC/actions/workflows/test.yml) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/meyer-lab/DDMC/blob/main/LICENSE) |
+| [**vsparse**](https://github.com/meyer-lab/vsparse) | Store and analyze scRNAseq data with extreme memory efficiency | [![CI](https://github.com/meyer-lab/vsparse/actions/workflows/ci.yml/badge.svg)](https://github.com/meyer-lab/vsparse/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/meyer-lab/vsparse/blob/main/LICENSE) |
 
 ## Tensor factorization methods
 
@@ -36,7 +37,7 @@ Core methods and libraries underpinning most of our analysis pipelines.
 ## Tools & infrastructure
 
 - [**tensordata**](https://github.com/meyer-lab/tensordata) — Shared repository of tensor-structured datasets
-- [**anndata-VCSC**](https://github.com/meyer-lab/anndata-VCSC) — Store and analyze scRNAseq data with extreme memory efficiency
+- [**vsparse**](https://github.com/meyer-lab/vsparse) — Store and analyze scRNAseq data with extreme memory efficiency
 - [**bootstraptools**](https://github.com/meyer-lab/bootstraptools) — Bootstrap resampling tools for model uncertainty analysis
 - [**asmlab.org**](https://github.com/meyer-lab/asmlab.org) — Source for the Meyer lab website
 
