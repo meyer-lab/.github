@@ -20,7 +20,6 @@ Core methods and libraries underpinning most of our analysis pipelines.
 - [**RISE**](https://github.com/meyer-lab/RISE) — PARAFAC2 tensor factorization for multi-sample scRNA-seq
 - [**parafac2**](https://github.com/meyer-lab/parafac2) — Scalable PARAFAC2 implementation with line search
 - [**tensorpack**](https://github.com/meyer-lab/tensorpack) — Collection of tensor factorization methods from the Meyer lab
-- [**cmtf-pls**](https://github.com/meyer-lab/cmtf-pls) — Partial least squares implementation within CMTF
 - [**FastPIDC.jl**](https://github.com/meyer-lab/FastPIDC.jl) — Infers undirected networks from data
 - [**Pf2-scRNAseq**](https://github.com/meyer-lab/Pf2-scRNAseq) — Pf2 tensor factorization applied to single-cell RNA-seq
 
